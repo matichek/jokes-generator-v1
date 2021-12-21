@@ -1,2 +1,3 @@
 # jokes-generator-v1
-This is a test jokes json public API test.
+
+Testing pure javascript json calls to public jokes api. 
